@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "espSIPDoorbel",
-			"path": "."
-		} ]
+			"name": "espSIP_2",
+			"path": "../espSIP_2"
+		}
+	]
 }
