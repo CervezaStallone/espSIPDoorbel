@@ -3,15 +3,5 @@
 		{
 			"name": "espSIPDoorbel",
 			"path": "."
-		},
-		{
-			"name": "espSIP_2",
-			"path": "../espSIP_2"
-		}
-	],
-	"settings": {
-		"files.associations": {
-			"*.yaml": "home-assistant"
-		}
-	}
+		} ]
 }
