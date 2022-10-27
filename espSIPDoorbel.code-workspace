@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "espSIPDoorbel",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.yaml": "home-assistant"
+		}
+	}
+}
